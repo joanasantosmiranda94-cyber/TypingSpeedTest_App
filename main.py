@@ -24,7 +24,7 @@ class TypingSpeed:
         self.current_word = ""
         self.score = 0
         self.best_score = 0
-        self.time_left = 5
+        self.time_left = 60
         self.timer_running = False
 
         self.create_widgets()
